@@ -1,7 +1,10 @@
 # search-nav-Bar-by-Jquery
 Responsive search-bar and nav-bar by jquery
 ![ss1](https://user-images.githubusercontent.com/105963703/187038105-6a83f770-d553-4486-83b6-fabd3e20e8ee.jpg)
-
+<br>
+<br>
+<br>
+<br>
 
 
 
