@@ -6,9 +6,4 @@ Responsive search-bar and nav-bar by jquery
 <br>
 <br>
 
-
-
-
-
-
 ![ss2](https://user-images.githubusercontent.com/105963703/187038109-9e1534b9-4e9b-4122-847c-aea7064e3aaf.jpg)
